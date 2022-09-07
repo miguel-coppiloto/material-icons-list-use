@@ -1,0 +1,22 @@
+{
+  "name": "material-icons-list-use",
+  "version": "1.0.0",
+  "description": "Uso de librería material-icons-list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-coppiloto/material-icons-list-use.git"
+  },
+  "author": "Coppiloto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-coppiloto/material-icons-list-use/issues"
+  },
+  "homepage": "https://github.com/miguel-coppiloto/material-icons-list-use#readme",
+  "dependencies": {
+    "material-icons-list": "github:miguel-coppiloto/material-icons-list"
+  }
+}
